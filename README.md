@@ -1,5 +1,5 @@
-# 💬 Chatbot Anh Lập Trình
+# 💬 Chatbot Sonnguyen
 
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://pyan.vn/)
+Chương trình chatbot được tạo ra từ Nguyễn Phú Sơn Đội trưởng đội QLĐLKV Lâm Thao
 
 
